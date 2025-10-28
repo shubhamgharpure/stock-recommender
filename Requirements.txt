@@ -19,7 +19,7 @@ requests_html
 matplotlib
 streamlit
 dash
-git+https://github.com/shubhamgharpure/stock-recommender.git
+
 
 
 
