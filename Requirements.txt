@@ -14,11 +14,11 @@ newspaper3k
 fastapi
 uvicorn
 requests
-talib
 requests_html
 matplotlib
 streamlit
 dash
+
 
 
 
