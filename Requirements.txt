@@ -18,6 +18,8 @@ requests_html
 matplotlib
 streamlit
 dash
+pandas_ta
+
 
 
 
